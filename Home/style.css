@@ -81,9 +81,9 @@ nav{
 .wrap-btns button:hover{
     cursor: pointer;
     opacity: 1;
-     border: 2px solid rgb(0, 255, 242);
-    color: #00fff2;
-    box-shadow: 2px 3px 1px white;
+     border: 2px solid rgb(255, 0, 140);
+    color: #ff009d;
+    box-shadow: 2px 3px 1px rgb(255, 0, 200);
     transform:scale(1.1);
 
 }
